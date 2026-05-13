@@ -58,6 +58,10 @@ The goal is to understand customer demographics especially gender and how they i
 
 ## 📈 Power BI Dashboard
 
+<p align="center">
+  <img src="img/azure_BI.png" alt="Azure BI dashboard" width="550"/>
+</p>
+
 The dashboard displays:
 - ✅ Total products sold  
 - 💰 Total sales revenue  
