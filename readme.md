@@ -13,9 +13,19 @@ This project simulates a real-time business scenario and demonstrates how to bui
 The goal is to understand customer demographics especially gender and how they impact product sales.
 
 ### Key Requirements:
-- **Sales by Customer Title (Mr, Mrs, Sra, Sr) & Product Category**
-- **Interactive Filtering** by category and customer title (Mr, Mrs, Sra, Sr)
-- **User-Friendly Dashboard** for stakeholders
+- **Sales by Gender & Product Category** – Analyze total sales and product preferences across Male, Female, and Not Specified customer groups.  
+
+
+- **Geographical Sales Distribution** – Visualize sales performance across different regions, specifically North America and Europe.  
+
+
+- **KPI Tracking** – Provide real-time visibility into high-level metrics including Total Sales, Total Orders, Total Customers, and Total Profit.  
+
+
+- **Interactive Filtering** – Allow stakeholders to dynamically filter the dashboard by Order Date, Product Category, and Gender.  
+
+
+- **User-Friendly Dashboard** – Create a centralized, automated interface for stakeholders to access actionable insights without manual intervention.
 
 ## 🛠️ Solution Summary
 
