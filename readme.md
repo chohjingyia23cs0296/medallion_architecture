@@ -63,10 +63,13 @@ The goal is to understand customer demographics especially gender and how they i
 </p>
 
 The dashboard displays:
-- ✅ Total products sold  
-- 💰 Total sales revenue  
-- 👥 Gender distribution  
-- 🎯 Filters for product category and customer title (Mr, Mrs, Sra, Sr)
+- KPI Tracking: Displays total sales ($7.09M), total products (296), total orders (2,087), and total customers (847).
+
+- Demographics: Highlights that the customer base is dominated by men (58.56%) compared to women (40.61%).
+
+- Product Performance: Features a "Top 5 Product Sales" bar chart and category dependency tree maps.
+
+- Geographical Analysis: Visualizes sales distribution across North America and Europe.
 
 ---
 
