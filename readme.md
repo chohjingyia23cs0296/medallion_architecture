@@ -53,7 +53,7 @@ The goal is to understand customer demographics especially gender and how they i
 
 ### 🛠️ Data Pipeline Diagram
 <p align="center">
-  <img src="img/data_pipeline_diagram.png" alt="Azure Data Engineering Pipeline" width="600"/>
+  <img src="img/data_pipeline_diagram.jpg" alt="Azure Data Engineering Pipeline" width="600"/>
 </p>
 
 ## 📈 Power BI Dashboard
